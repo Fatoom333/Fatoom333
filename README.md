@@ -25,10 +25,6 @@
 <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Fatoom333&layout=compact&hide_border=true&title_color=C084FC&text_color=EEE1F9&bg_color=170F20" alt="top langs" height="165"/>
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Fatoom333&hide_border=true&background=170F20&ring=C084FC&fire=F472B6&currStreakLabel=C084FC" alt="streak"/>
-</div>
-
 ### 🐍 Активность
 
 <div align="center">
