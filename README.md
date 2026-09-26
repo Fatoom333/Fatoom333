@@ -14,6 +14,11 @@
 
 Стек: Python, C#, C++.
 
+### 💼 Открыт к заказам
+
+Telegram-боты и Mini Apps, скрипты и автоматизация на Python, сайты на Astro — от кода до сервера.
+Пример сайта под ключ: [ecotechhome.ru](https://ecotechhome.ru)
+
 ### 🛠 Стек
 
 <div align="center">
