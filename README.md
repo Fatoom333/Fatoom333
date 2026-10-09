@@ -10,19 +10,27 @@
 
 Больше всего люблю **проектировать архитектуру**: раскладывать систему на модули так, чтобы через полгода в неё можно было вернуться и не бояться. Поэтому, например, [Json-Parser](https://github.com/Fatoom333/Json-Parser) написан без единого стороннего пакета — не потому что так надо, а чтобы понять, как это устроено внутри.
 
-Если что-то не собралось с первого раза — не пишите issues, у меня лапки.
+Что-то не собралось? Пишите issue — разберу лапками 🐾
 
-Стек: Python, C#, C++.
+Стек: Python, C#, C++, TypeScript, Rust. Строю AI-агентов и MCP-серверы, большие проекты веду оркестром агентов Claude Code.
+
+### 🧩 Проекты
+
+- **[among-us-claude](https://github.com/Fatoom333/among-us-claude)** — человек против девяти Claude-агентов в настоящем Among Us. Мод на C# (BepInEx) — тело бота, агенты с личностями — мозг, связь через MCP; агент видит только то, что видит его персонаж.
+- **[factorio-partner](https://github.com/Fatoom333/factorio-partner)** — Claude вторым персонажем в твоём сейве Factorio 2.0: мод на Lua, MCP-сервер на Python, мост по RCON, честные правила игры.
+- **[telegram-image-generator](https://github.com/Fatoom333/telegram-image-generator)** — Telegram Mini App для AI-генерации: FastAPI + aiogram, оплата ЮKassa, очередь на Redis, PostgreSQL, Docker.
+- **[ecotechhome.ru](https://ecotechhome.ru)** — сайт компании под ключ: Astro, Fastify, VPS, nginx, CI/CD.
+- **В работе:** Android-приложение для технадзора (.NET MAUI + FastAPI/PostgreSQL), PWA-хаб проектов на React + TypeScript, [распределённое ядро Factorio на Rust](https://github.com/Fatoom333/factorio-distributed-core).
 
 ### 💼 Открыт к заказам
 
-Telegram-боты и Mini Apps, скрипты и автоматизация на Python, сайты на Astro — от кода до сервера.
+Telegram-боты и Mini Apps, скрипты и автоматизация на Python, AI-агенты и интеграции через MCP, сайты на Astro — от кода до сервера.
 Пример сайта под ключ: [ecotechhome.ru](https://ecotechhome.ru)
 
 ### 🛠 Стек
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,dotnet,git,github,rider,pycharm,clion" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,ts,rust,lua,dotnet,fastapi,react,postgres,docker,linux,nginx,git,github,rider,pycharm,clion&perline=9" alt="skills"/>
 </div>
 
 ### 📊 Статистика
